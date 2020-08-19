@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ./library/libs/react-native-0.59.10.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23b47ba37b279f7b5a960eb4af6d7dfc/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23b47ba37b279f7b5a960eb4af6d7dfc/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23b47ba37b279f7b5a960eb4af6d7dfc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23b47ba37b279f7b5a960eb4af6d7dfc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
